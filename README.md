@@ -1,0 +1,1 @@
+Algorithmic composition interface using Max.  open final.maxpat for end-user interface.  Can change keys, tempo, improvise melody, algorithmically compose melody, algorithmically compose chords, algorithmically compose arpeggios, and modify parameters for algorithmic composition.  
